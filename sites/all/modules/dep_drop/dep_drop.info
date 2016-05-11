@@ -1,0 +1,5 @@
+name = Dependent Dropdown
+description = Ajax Dependent Dropdown
+package = Epicodus Examples
+core = 7.x
+files[] = dep_drop.module 

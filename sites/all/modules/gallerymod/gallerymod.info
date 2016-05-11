@@ -1,0 +1,5 @@
+name = Gallery Module
+description = Display Gallery with Ajax.
+package = Epicodus Examples
+core = 7.x
+files[] = gallerymod.module

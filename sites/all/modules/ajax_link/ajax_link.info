@@ -1,0 +1,6 @@
+name = "Ajax Link Test"
+description = "A simple Ajax link example"
+core = 7.x
+package = Epicodus Examples
+files[] =  ajax_link.module
+scripts[] = ajax_link.js
